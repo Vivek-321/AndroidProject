@@ -238,4 +238,3 @@ dependencies {
 - All data is mocked
 - Architecture and state handling are the main focus
 - No real maps, GPS, or online APIs are used
-- This project is designed to be easy to explain in interviews and onboarding
